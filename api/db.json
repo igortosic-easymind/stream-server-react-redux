@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "this is first stream",
+      "description": "This is description for first video stream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "this was made by me test",
+      "id": 3
+    },
+    {
+      "title": "New test trd",
+      "description": "testing react redux update",
+      "userId": "104018631457771069549",
+      "id": 4
+    }
+  ]
+}
